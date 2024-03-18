@@ -1,15 +1,22 @@
 ﻿using System.Windows;
+using MemoryDatabase;
 
 namespace MemoryUi;
 
 public partial class Hoofdscherm : Window
 {
     public Hoofdscherm() => InitializeComponent();
+    public void CreateDB()
+    {
+        DataBaseManager db = new DataBaseManager();
+        db.CreateDBIfNotExcisted();
+    }
 
     private void PlayButton_Click(object sender, RoutedEventArgs e)
     {
         Dialog dia = new Dialog();
         dia.Show();
+        CreateDB();
         Close();
     }
 

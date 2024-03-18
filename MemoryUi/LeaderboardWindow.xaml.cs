@@ -21,8 +21,8 @@ public partial class LeaderboardWindow : Window
 
     private void BackButton_Click(object sender, RoutedEventArgs e)
     {
-        Hoofdscherm mainWindow = new Hoofdscherm();
-        mainWindow.Show();
+        Hoofdscherm hoofdscherm = new Hoofdscherm();
+        hoofdscherm.Show();
         Close();
     }
 }

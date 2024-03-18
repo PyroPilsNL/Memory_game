@@ -9,8 +9,34 @@ namespace MemoryDatabase;
 public class DataBaseManager
 {
 
-    private static string connectionString = "Server=localhost;Database=highscores;User ID=root;";
+    private static string connectionString = "Server=127.0.0.1;Port=3306;Database=test;Uid=root;"; //Home pc
+    // private static string connectionString = "Server=127.0.0.1;Port=3306;Database=test;Uid=root;";
     private MySqlConnection cnn = new MySqlConnection(connectionString);
+
+    // root@127.0.0.1:3306
+
+    public void CreateDBIfNotExcisted()
+    {
+        try
+        {
+            cnn.Open();
+
+            // Create the table if it doesn't exist
+            using (MySqlCommand createCommand = new MySqlCommand("CREATE TABLE IF NOT EXISTS `highscores` (`Playername` varchar(45) NOT NULL, `Score` int(11) DEFAULT NULL, `Moves` int(11) DEFAULT NULL, PRIMARY KEY (`Playername`)) ENGINE=InnoDB DEFAULT CHARSET=latin1 COLLATE=latin1_swedish_ci;", cnn))
+            {
+                createCommand.ExecuteNonQuery();
+            }
+        }
+        catch (Exception e)
+        {
+            Console.WriteLine(e);
+            throw;
+        }
+        finally
+        {
+            cnn.Close();
+        }
+    }
 
     public void InsertResult(Player player)
     {

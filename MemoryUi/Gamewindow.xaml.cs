@@ -4,6 +4,8 @@ using System.Windows;
 using System.Windows.Controls;
 using System.Windows.Media;
 using MemoryBusiness;
+using MemoryDatabase;
+
 // using MemoryDatabase;
 
 namespace MemoryUi
@@ -13,7 +15,7 @@ namespace MemoryUi
         private Button? firstButton { get; set; }
         private MemoryGame game { get; set; }
         private Card? card1 { get; set; }
-        // private DataBaseManager DBM = new DataBaseManager();
+        private DataBaseManager DBM = new DataBaseManager();
 
         public Gamewindow(string naam, int paren)
         {
@@ -74,7 +76,7 @@ namespace MemoryUi
                                 
                                 game.State.CurrentPlayer.Playerscore = game.CalculateScore();
                                 
-                               // DBM.InsertResult(game.State.CurrentPlayer);
+                               DBM.InsertResult(game.State.CurrentPlayer);
                                MessageBox.Show($"{game.State.CurrentPlayer.PlayerName} je hebt een score behaald van {game.State.CurrentPlayer.Playerscore} met {game.State.CurrentPlayer.Moves} aantal beurten");
                                
                                Hoofdscherm mainWindow = new Hoofdscherm();

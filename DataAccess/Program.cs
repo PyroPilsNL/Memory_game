@@ -4,11 +4,12 @@ using MemoryBusiness;
 using MemoryDatabase;
 
 DataBaseManager a = new DataBaseManager();
+a.CreateDBIfNotExcisted();
 
 
-Player player = new Player("Wouter");
+Player player = new Player("123");
 
-player.Playerscore = 100;
+player.Playerscore = 99;
 player.Moves = 10;
 a.InsertResult(player);
 
