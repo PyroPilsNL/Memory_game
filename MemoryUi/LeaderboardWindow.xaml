@@ -5,7 +5,7 @@
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:local="clr-namespace:MemoryUi"
         mc:Ignorable="d"
-        Background="Yellow"
+        Background="Gray"
         Title="LeaderboardWindow" Height="450" Width="800">
     <Grid>
         <TextBlock
@@ -14,7 +14,7 @@
             VerticalAlignment="Top"
             FontSize="20"
             Style="{DynamicResource Text}"
-            Text="Naam" />
+            Text="Name" />
         <TextBlock
             Margin="120,10,0,0"
             HorizontalAlignment="Left"

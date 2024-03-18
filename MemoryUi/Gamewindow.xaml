@@ -1,7 +1,7 @@
 ﻿<Window x:Class="MemoryUi.Gamewindow"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-        Background="Yellow"
+        Background="Gray"
         Title="Game Screen" Height="750" Width="1500">
     
     <Grid>

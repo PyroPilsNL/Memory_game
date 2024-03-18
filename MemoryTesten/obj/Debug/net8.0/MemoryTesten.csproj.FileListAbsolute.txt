@@ -109,3 +109,5 @@ C:\Users\wwolf\OneDrive\Documenten\Projecten_school\Memory\Memory\MemoryTesten\b
 C:\Users\wwolf\OneDrive\Documenten\Projecten_school\Memory\Memory\MemoryTesten\bin\Debug\net8.0\DataAccess.exe
 C:\Users\wwolf\OneDrive\Documenten\Projecten_school\Memory\Memory\MemoryTesten\bin\Debug\net8.0\DataAccess.dll
 C:\Users\wwolf\OneDrive\Documenten\Projecten_school\Memory\Memory\MemoryTesten\bin\Debug\net8.0\DataAccess.pdb
+C:\Users\wwolf\OneDrive\Documenten\Projecten_school\Memory\Memory\MemoryTesten\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\wwolf\OneDrive\Documenten\Projecten_school\Memory\Memory\MemoryTesten\bin\Debug\net8.0\MySqlConnector.dll

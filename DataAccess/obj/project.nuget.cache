@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "G4NAEWsLIOM4qvpHkcGHnH+U26nQCJpO9ZbPNjZoss2qh69xMakbqBssDC9vrzfv5GTrTQGTaIQNiYw5vLEzlQ==",
+  "dgSpecHash": "PngmR8Wwjr+k++2WGVBoiNrRtvb4FStrkt6TT/ArwkIYFYQM4O/up2wnX+cl7Jd8cFLcxfwv+3ZKbrkLCmFNag==",
   "success": true,
   "projectFilePath": "C:\\Users\\wwolf\\OneDrive\\Documenten\\Projecten_school\\Memory\\Memory\\DataAccess\\DataAccess.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\wwolf\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.1\\microsoft.extensions.logging.abstractions.7.0.1.nupkg.sha512",
+    "C:\\Users\\wwolf\\.nuget\\packages\\mysqlconnector\\2.3.5\\mysqlconnector.2.3.5.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -13,3 +13,12 @@ C:\Users\wwolf\OneDrive\Documenten\Projecten_school\Memory\Memory\DataAccess\obj
 C:\Users\wwolf\OneDrive\Documenten\Projecten_school\Memory\Memory\DataAccess\obj\Debug\net8.0\DataAccess.pdb
 C:\Users\wwolf\OneDrive\Documenten\Projecten_school\Memory\Memory\DataAccess\obj\Debug\net8.0\DataAccess.genruntimeconfig.cache
 C:\Users\wwolf\OneDrive\Documenten\Projecten_school\Memory\Memory\DataAccess\obj\Debug\net8.0\ref\DataAccess.dll
+C:\Users\wwolf\OneDrive\Documenten\Projecten_school\Memory\Memory\DataAccess\obj\Debug\net8.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\wwolf\OneDrive\Documenten\Projecten_school\Memory\Memory\DataAccess\bin\Debug\net8.0\MemoryBusiness.deps.json
+C:\Users\wwolf\OneDrive\Documenten\Projecten_school\Memory\Memory\DataAccess\bin\Debug\net8.0\MemoryBusiness.runtimeconfig.json
+C:\Users\wwolf\OneDrive\Documenten\Projecten_school\Memory\Memory\DataAccess\bin\Debug\net8.0\MemoryBusiness.exe
+C:\Users\wwolf\OneDrive\Documenten\Projecten_school\Memory\Memory\DataAccess\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\wwolf\OneDrive\Documenten\Projecten_school\Memory\Memory\DataAccess\bin\Debug\net8.0\MySqlConnector.dll
+C:\Users\wwolf\OneDrive\Documenten\Projecten_school\Memory\Memory\DataAccess\bin\Debug\net8.0\MemoryBusiness.dll
+C:\Users\wwolf\OneDrive\Documenten\Projecten_school\Memory\Memory\DataAccess\bin\Debug\net8.0\MemoryBusiness.pdb
+C:\Users\wwolf\OneDrive\Documenten\Projecten_school\Memory\Memory\DataAccess\obj\Debug\net8.0\DataAccess.csproj.CopyComplete

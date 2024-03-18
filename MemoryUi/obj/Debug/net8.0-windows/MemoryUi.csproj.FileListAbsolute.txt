@@ -125,3 +125,5 @@ C:\Users\wwolf\OneDrive\Documenten\Projecten_school\Memory\Memory\MemoryUi\obj\D
 C:\Users\wwolf\OneDrive\Documenten\Projecten_school\Memory\Memory\MemoryUi\obj\Debug\net8.0-windows\MemoryUi.pdb
 C:\Users\wwolf\OneDrive\Documenten\Projecten_school\Memory\Memory\MemoryUi\obj\Debug\net8.0-windows\MemoryUi.genruntimeconfig.cache
 C:\Users\wwolf\OneDrive\Documenten\Projecten_school\Memory\Memory\MemoryUi\obj\Debug\net8.0-windows\ref\MemoryUi.dll
+C:\Users\wwolf\OneDrive\Documenten\Projecten_school\Memory\Memory\MemoryUi\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\wwolf\OneDrive\Documenten\Projecten_school\Memory\Memory\MemoryUi\bin\Debug\net8.0-windows\MySqlConnector.dll
