@@ -1,0 +1,15 @@
+C:\Users\wwolf\OneDrive\Documenten\Projecten_school\Memory\Memory\MemoryBusiness\bin\Debug\net8.0\MemoryBusiness.exe
+C:\Users\wwolf\OneDrive\Documenten\Projecten_school\Memory\Memory\MemoryBusiness\bin\Debug\net8.0\MemoryBusiness.deps.json
+C:\Users\wwolf\OneDrive\Documenten\Projecten_school\Memory\Memory\MemoryBusiness\bin\Debug\net8.0\MemoryBusiness.runtimeconfig.json
+C:\Users\wwolf\OneDrive\Documenten\Projecten_school\Memory\Memory\MemoryBusiness\bin\Debug\net8.0\MemoryBusiness.dll
+C:\Users\wwolf\OneDrive\Documenten\Projecten_school\Memory\Memory\MemoryBusiness\bin\Debug\net8.0\MemoryBusiness.pdb
+C:\Users\wwolf\OneDrive\Documenten\Projecten_school\Memory\Memory\MemoryBusiness\obj\Debug\net8.0\MemoryBusiness.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wwolf\OneDrive\Documenten\Projecten_school\Memory\Memory\MemoryBusiness\obj\Debug\net8.0\MemoryBusiness.AssemblyInfoInputs.cache
+C:\Users\wwolf\OneDrive\Documenten\Projecten_school\Memory\Memory\MemoryBusiness\obj\Debug\net8.0\MemoryBusiness.AssemblyInfo.cs
+C:\Users\wwolf\OneDrive\Documenten\Projecten_school\Memory\Memory\MemoryBusiness\obj\Debug\net8.0\MemoryBusiness.csproj.CoreCompileInputs.cache
+C:\Users\wwolf\OneDrive\Documenten\Projecten_school\Memory\Memory\MemoryBusiness\obj\Debug\net8.0\MemoryBusiness.sourcelink.json
+C:\Users\wwolf\OneDrive\Documenten\Projecten_school\Memory\Memory\MemoryBusiness\obj\Debug\net8.0\MemoryBusiness.dll
+C:\Users\wwolf\OneDrive\Documenten\Projecten_school\Memory\Memory\MemoryBusiness\obj\Debug\net8.0\refint\MemoryBusiness.dll
+C:\Users\wwolf\OneDrive\Documenten\Projecten_school\Memory\Memory\MemoryBusiness\obj\Debug\net8.0\MemoryBusiness.pdb
+C:\Users\wwolf\OneDrive\Documenten\Projecten_school\Memory\Memory\MemoryBusiness\obj\Debug\net8.0\MemoryBusiness.genruntimeconfig.cache
+C:\Users\wwolf\OneDrive\Documenten\Projecten_school\Memory\Memory\MemoryBusiness\obj\Debug\net8.0\ref\MemoryBusiness.dll
