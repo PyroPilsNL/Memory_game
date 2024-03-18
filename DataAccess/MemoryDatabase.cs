@@ -20,7 +20,7 @@ public class DataBaseManager
             cnn.Open();
 
             // Create the table if it doesn't exist
-            using (MySqlCommand createCommand = new MySqlCommand("CREATE TABLE IF NOT EXISTS `highscores` (`Playername` varchar(45) NOT NULL, `Score` int(11) DEFAULT NULL, `Moves` int(11) DEFAULT NULL, PRIMARY KEY (`Playername`)) ENGINE=InnoDB DEFAULT CHARSET=latin1 COLLATE=latin1_swedish_ci;", cnn))
+            using (MySqlCommand createCommand = new MySqlCommand("CREATE TABLE IF NOT EXISTS `highscores` (`Id` int(11) NOT NULL AUTO_INCREMENT,`Playername` varchar(45) DEFAULT NULL,`Score` int(11) DEFAULT NULL,`Moves` int(11) DEFAULT NULL,PRIMARY KEY (`Id`)) ENGINE=InnoDB DEFAULT CHARSET=latin1 COLLATE=latin1_swedish_ci;", cnn))
             {
                 createCommand.ExecuteNonQuery();
             }
