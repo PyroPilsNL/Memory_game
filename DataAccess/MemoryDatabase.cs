@@ -13,8 +13,6 @@ public class DataBaseManager
     // private static string connectionString = "Server=127.0.0.1;Port=3306;Database=test;Uid=root;";
     private MySqlConnection cnn = new MySqlConnection(connectionString);
 
-    // root@127.0.0.1:3306
-
     public void CreateDBIfNotExcisted()
     {
         try

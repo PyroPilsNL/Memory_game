@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MemoryTesten")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cdd8be82d768850bb076e7ed707573e9e2681a08")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0b1c9b83f8e6c414183b91896a6265a7593fa3bf")]
 [assembly: System.Reflection.AssemblyProductAttribute("MemoryTesten")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MemoryTesten")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
