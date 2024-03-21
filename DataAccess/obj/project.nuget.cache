@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "PngmR8Wwjr+k++2WGVBoiNrRtvb4FStrkt6TT/ArwkIYFYQM4O/up2wnX+cl7Jd8cFLcxfwv+3ZKbrkLCmFNag==",
+  "dgSpecHash": "4XQoJJv45DNj5QOP/MNgc0mcaB1BnwwfYwE0wF4d1M7JF/TB5P5GAmVtHsEG2jd/FDf3czINOGuztf7rlIAcfw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\wwolf\\OneDrive\\Documenten\\Projecten_school\\Memory\\Memory\\DataAccess\\DataAccess.csproj",
+  "projectFilePath": "C:\\Users\\lwolf\\RiderProjects\\Memory_game\\DataAccess\\DataAccess.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\wwolf\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.1\\microsoft.extensions.logging.abstractions.7.0.1.nupkg.sha512",
-    "C:\\Users\\wwolf\\.nuget\\packages\\mysqlconnector\\2.3.5\\mysqlconnector.2.3.5.nupkg.sha512"
+    "C:\\Users\\lwolf\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.1\\microsoft.extensions.logging.abstractions.7.0.1.nupkg.sha512",
+    "C:\\Users\\lwolf\\.nuget\\packages\\mysqlconnector\\2.3.5\\mysqlconnector.2.3.5.nupkg.sha512"
   ],
   "logs": []
 }
